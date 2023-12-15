@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/LeonelMedova/message-ramdom-string#readme",
   "bin": {
-    "message-ramdom-string": "./bin/global.js"
+    "message-ramdom-string": "bin/global.js"
   },
   "preferGlobal": true
 }
