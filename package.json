@@ -1,0 +1,24 @@
+{
+  "name": "message-ramdom-string",
+  "version": "1.0.0",
+  "description": "Ramdom string message",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LeonelMedova/message-ramdom-string.git"
+  },
+  "keywords": [],
+  "author": "Leonel Medina <ldavid.mdn@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LeonelMedova/message-ramdom-string/issues"
+  },
+  "homepage": "https://github.com/LeonelMedova/message-ramdom-string#readme",
+  "bin": {
+    "message-ramdom-string": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
